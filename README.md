@@ -1,4 +1,6 @@
 # scrapy_weixin
+#scrapy框架中爬取微信公众号
+
 1、由于代理ip可能失效，为避免程序无法运行，将代理ip的中间件注释了
     如需要设置代理ip，要在settings.py中取消PlantomJSMiddleware注释，同时将JavaScriptMiddleware注释
     
